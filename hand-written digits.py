@@ -1,4 +1,4 @@
-### hand writing######
+### hand written digits classification ######
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
